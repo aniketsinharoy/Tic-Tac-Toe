@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe Game
 This is a two player game and total number of moves are 9. <br/>
 The player who makes the horizontal or vertical or diagonal line first wins the game. <br/>
 ## Here are two game mode:
